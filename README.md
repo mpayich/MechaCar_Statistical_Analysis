@@ -40,22 +40,22 @@ Lot 2 variance = 7.5 PSI
 
 - P-Value for all lots is 0.06028 which is above our significance level of 0.05 
 - fail to reject null hypothesis
+![devliverable3](/images/deliverable3.png)
 
 ##### Lot 1 t-test
 
 - P-Value for Lot 1 is 1, above our significance level of 0.05
 - fail to reject null hypothesis
-![devliverable3](/images/deliverable3.png)
 
 
 ##### Lot 2 t-test
 
 - P-Value for Lot 2 is 0.6072, above our significance level of 0.05
 - fail to reject null hypothesis
+![Devliverable3_2](/images/deliverable3_2.png)
 
 ##### Lot 3 t-test
 
 - P-Value for Lot 3 is 0.04168, below our significance level of 0.05
 - reject null hypothesis
-![Devliverable3_2](/images/deliverable3_2.png)
 
